@@ -27,4 +27,4 @@ An interactive AI-powered voice assistant built with Python that listens through
 
 ---
 
-## 📁 Project Structure
+
